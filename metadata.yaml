@@ -1,10 +1,16 @@
 _repo: Geneva-Painted-by-J-Hardwicke-Lewis-May-Hardwicke-Lewis-Described-by-Francis-Gribble_50738
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50738-h/images/cover.jpg
 creator:
   author:
     agent_name: Gribble, Francis Henry
     gutenberg_agent_id: '41309'
     url: http://www.gutenberg.org/2009/agents/41309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50738#Geneva-Painted-by-J-Hardwicke-Lewis-May-Hardwicke-Lewis-Described-by-Francis-Gribble
 gutenberg_issued: '2015-12-21'
 gutenberg_type: Text
 identifiers:
